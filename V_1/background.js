@@ -11,8 +11,8 @@ chrome.contextMenus.onClicked.addListener(function (info, tab) {
     if (info.menuItemId === "text-to-image") {
         let selectedText = info.selectionText;
         let prePrompt = `
-Based on the text below generate a Prompt of max 11 words for a text to image AI model, that highlight the subject of the text into one illustration. Make the prompt to include the illustration in the style of a cartoon.
-
+Based on the text below generate a Prompt of max 11 words for a text to image AI model, 
+that highlight the subject of the text into one illustration. Make the prompt to include the illustration in the style of a cartoon.
 Text: `;
 
         // Call to the new API for prompt generation
@@ -46,7 +46,7 @@ Text: `;
                     method: "POST",
                     headers: {
                         'Content-Type': 'application/json',
-                        'Authorization': 'Bearer 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'
+                        'Authorization': 'Bearer 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'
                     },
                     body: JSON.stringify({
                         "model": "dall-e-3",
