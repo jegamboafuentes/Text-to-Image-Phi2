@@ -1,7 +1,6 @@
-![alt text](https://github.com/jegamboafuentes/Text-to-Image-Phi2/blob/main/imagenes/phi2Logo.png)
 Installation Guide 🛠️
 ----------------------
-
+![alt text](https://github.com/jegamboafuentes/Text-to-Image-Phi2/blob/main/imagenes/phi2anddalle.png)
 ### Step 1: Download the Extension
 
 1.  Navigate to the `V_1` folder within the [Text-to-Image Phi2 GitHub repository](https://github.com/jegamboafuentes/Text-to-Image-Phi2/tree/main/V_1).
@@ -58,4 +57,4 @@ For support, questions, or feedback, please open an issue in the GitHub reposito
 
 Happy Creating!
 
-![alt text](https://github.com/jegamboafuentes/Text-to-Image-Phi2/blob/main/imagenes/1_LOGO1.png)
+![alt text](https://github.com/jegamboafuentes/Text-to-Image-Phi2/blob/main/imagenes/phi2anddalle.png)

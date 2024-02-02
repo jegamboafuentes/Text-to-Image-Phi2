@@ -18,6 +18,7 @@ Hackathon Summary 🚀
 Project Summary 📝
 ------------------
 
+![alt text](https://github.com/jegamboafuentes/Text-to-Image-Phi2/blob/main/imagenes/phi2anddalle.png)
 **Text to Image - Phi2** is a groundbreaking browser extension that transforms any selected web text into vibrant illustrations through a simple right-click. By harnessing Microsoft's Phi-2 API for text summarization and feeding concise prompts to the Dalle 3 AI model, it creates captivating illustrations directly within the browser.
 
 ### Key Features:
