@@ -57,4 +57,4 @@ For support, questions, or feedback, please open an issue in the GitHub reposito
 
 Happy Creating!
 
-![alt text](https://github.com/jegamboafuentes/Text-to-Image-Phi2/blob/main/imagenes/phi2anddalle.png)
+![alt text](https://github.com/jegamboafuentes/Text-to-Image-Phi2/blob/main/imagenes/projectBanner.png)
