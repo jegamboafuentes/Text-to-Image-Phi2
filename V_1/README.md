@@ -1,3 +1,4 @@
+![alt text](https://github.com/jegamboafuentes/Text-to-Image-Phi2/blob/main/imagenes/phi2Logo.png)
 Installation Guide 🛠️
 ----------------------
 
@@ -56,3 +57,5 @@ Support & Feedback 📬
 For support, questions, or feedback, please open an issue in the GitHub repository. We love hearing from our users and are constantly looking to improve the extension.
 
 Happy Creating!
+
+![alt text](https://github.com/jegamboafuentes/Text-to-Image-Phi2/blob/main/imagenes/1_LOGO1.png)

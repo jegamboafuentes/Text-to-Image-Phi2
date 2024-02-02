@@ -48,3 +48,5 @@ Getting Started 🌟
 ------------------
 
 After installation, right-click on any web text selection and select "Text to Image" from the context menu to see instant visual representations of your selected texts!
+
+![alt text](https://github.com/jegamboafuentes/Text-to-Image-Phi2/blob/main/imagenes/1_LOGO1.png)
